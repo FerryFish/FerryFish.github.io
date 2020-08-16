@@ -6,7 +6,7 @@
   <link href="https://ferryfish.github.io/atom.xml" rel="self"/>
   
   <link href="https://ferryfish.github.io/"/>
-  <updated>2020-08-16T02:46:32.873Z</updated>
+  <updated>2020-08-16T11:45:31.378Z</updated>
   <id>https://ferryfish.github.io/</id>
   
   <author>
@@ -20,8 +20,8 @@
     <title>Hello World</title>
     <link href="https://ferryfish.github.io/2020/08/16/hello-world/"/>
     <id>https://ferryfish.github.io/2020/08/16/hello-world/</id>
-    <published>2020-08-16T02:46:32.873Z</published>
-    <updated>2020-08-16T02:46:32.873Z</updated>
+    <published>2020-08-16T11:27:00.000Z</published>
+    <updated>2020-08-16T11:45:31.378Z</updated>
     
     
       
@@ -34,57 +34,30 @@
     
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>typora-vue-theme主题介绍</title>
-    <link href="https://ferryfish.github.io/2018/09/07/test/"/>
-    <id>https://ferryfish.github.io/2018/09/07/test/</id>
-    <published>2018-09-07T01:25:00.000Z</published>
-    <updated>2020-08-16T08:54:20.604Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;script&gt;
-        document.querySelectorAll(&#39;.github-emoji&#39;)
-          .forEach(el =&gt; {
-            if (!el.dataset.src) { return; }
-       </summary>
-        
-      
-    
-    
-    
-    <category term="Markdown" scheme="https://ferryfish.github.io/categories/Markdown/"/>
+    <category term="Hexo" scheme="https://ferryfish.github.io/categories/Hexo/"/>
     
     
     <category term="Typora" scheme="https://ferryfish.github.io/tags/Typora/"/>
     
     <category term="Markdown" scheme="https://ferryfish.github.io/tags/Markdown/"/>
     
+    <category term="Hexo" scheme="https://ferryfish.github.io/tags/Hexo/"/>
+    
   </entry>
   
   <entry>
     <title>typora-vue-theme主题介绍</title>
-    <link href="https://ferryfish.github.io/2018/09/07/test1/"/>
-    <id>https://ferryfish.github.io/2018/09/07/test1/</id>
-    <published>2018-09-07T01:25:00.000Z</published>
-    <updated>2020-08-16T08:54:30.358Z</updated>
+    <link href="https://ferryfish.github.io/2020/08/16/test/"/>
+    <id>https://ferryfish.github.io/2020/08/16/test/</id>
+    <published>2020-08-16T11:27:00.000Z</published>
+    <updated>2020-08-16T11:30:19.417Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;script&gt;
-        document.querySelectorAll(&#39;.github-emoji&#39;)
-          .forEach(el =&gt; {
-            if (!el.dataset.src) { return; }
-       </summary>
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://ferryfish-blog-images.oss-cn-shenzhen.aliyuncs.com/images/ed707626680f6fb67e09c70b8b251c08.jpg&quot;</summary>
         
       
     
