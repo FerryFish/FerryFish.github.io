@@ -3,11 +3,11 @@
   <title>FerryFish&#39;s Blog</title>
   
   <subtitle>FerryFish</subtitle>
-  <link href="https://ferryfish.github.io/atom.xml" rel="self"/>
+  <link href="https://ferryfish.gitee.io/atom.xml" rel="self"/>
   
-  <link href="https://ferryfish.github.io/"/>
-  <updated>2020-08-16T11:45:31.378Z</updated>
-  <id>https://ferryfish.github.io/</id>
+  <link href="https://ferryfish.gitee.io/"/>
+  <updated>2020-08-17T02:49:57.082Z</updated>
+  <id>https://ferryfish.gitee.io/</id>
   
   <author>
     <name>FerryFish</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://ferryfish.github.io/2020/08/16/hello-world/"/>
-    <id>https://ferryfish.github.io/2020/08/16/hello-world/</id>
+    <link href="https://ferryfish.gitee.io/posts/1.html"/>
+    <id>https://ferryfish.gitee.io/posts/1.html</id>
     <published>2020-08-16T11:27:00.000Z</published>
-    <updated>2020-08-16T11:45:31.378Z</updated>
+    <updated>2020-08-17T02:49:57.082Z</updated>
     
     
       
@@ -34,21 +34,21 @@
     
     
     
-    <category term="Hexo" scheme="https://ferryfish.github.io/categories/Hexo/"/>
+    <category term="Hexo" scheme="https://ferryfish.gitee.io/categories/Hexo/"/>
     
     
-    <category term="Typora" scheme="https://ferryfish.github.io/tags/Typora/"/>
+    <category term="Typora" scheme="https://ferryfish.gitee.io/tags/Typora/"/>
     
-    <category term="Markdown" scheme="https://ferryfish.github.io/tags/Markdown/"/>
+    <category term="Markdown" scheme="https://ferryfish.gitee.io/tags/Markdown/"/>
     
-    <category term="Hexo" scheme="https://ferryfish.github.io/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://ferryfish.gitee.io/tags/Hexo/"/>
     
   </entry>
   
   <entry>
     <title>typora-vue-theme主题介绍</title>
-    <link href="https://ferryfish.github.io/2020/08/16/test/"/>
-    <id>https://ferryfish.github.io/2020/08/16/test/</id>
+    <link href="https://ferryfish.gitee.io/posts/undefined.html"/>
+    <id>https://ferryfish.gitee.io/posts/undefined.html</id>
     <published>2020-08-16T11:27:00.000Z</published>
     <updated>2020-08-16T11:30:19.417Z</updated>
     
@@ -63,12 +63,12 @@
     
     
     
-    <category term="Markdown" scheme="https://ferryfish.github.io/categories/Markdown/"/>
+    <category term="Markdown" scheme="https://ferryfish.gitee.io/categories/Markdown/"/>
     
     
-    <category term="Typora" scheme="https://ferryfish.github.io/tags/Typora/"/>
+    <category term="Typora" scheme="https://ferryfish.gitee.io/tags/Typora/"/>
     
-    <category term="Markdown" scheme="https://ferryfish.github.io/tags/Markdown/"/>
+    <category term="Markdown" scheme="https://ferryfish.gitee.io/tags/Markdown/"/>
     
   </entry>
   
