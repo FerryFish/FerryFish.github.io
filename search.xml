@@ -34,10 +34,10 @@
     
     <entry>
       <title>typora-vue-theme主题介绍</title>
-      <link href="/posts/undefined.html"/>
-      <url>/posts/undefined.html</url>
+      <link href="/posts/25697.html"/>
+      <url>/posts/25697.html</url>
       
-        <content type="html"><![CDATA[<p><img src="https://ferryfish-blog-images.oss-cn-shenzhen.aliyuncs.com/images/ed707626680f6fb67e09c70b8b251c08.jpg" alt="配图1"></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+        <content type="html"><![CDATA[<p><img src="https://ferryfish-blog-images.oss-cn-shenzhen.aliyuncs.com/images/ed707626680f6fb67e09c70b8b251c08.jpg" alt="配图1"></p><p><img src="https://ferryfish-blog-images.oss-cn-shenzhen.aliyuncs.com/images/3.jpg" alt="3"></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
       
       <categories>
