@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="keywords" content="分类: Hexo, FerryFish">
+    <meta name="keywords" content="2020, FerryFish">
     <meta name="description" content="">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
@@ -16,7 +16,7 @@
     <!-- Global site tag (gtag.js) - Google Analytics -->
 
 
-    <title>分类: Hexo | FerryFish&#39;s Blog</title>
+    <title>2020 | FerryFish&#39;s Blog</title>
     <link rel="icon" type="image/png" href="/medias/favicon.png">
 
     <link rel="stylesheet" type="text/css" href="/libs/awesome/css/all.css">
@@ -426,150 +426,55 @@
 </header>
 
 
-<div class="bg-cover pd-header about-cover">
-    <div class="container">
-    <div class="row">
-    <div class="col s10 offset-s1 m8 offset-m2 l8 offset-l2">
-        <div class="brand">
-            <div class="title center-align">
-                
-                FerryFish
-                
-            </div>
-
-            <div class="description center-align">
-                
-                <span id="subtitle"></span>
-                <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
-                <script>
-                    var typed = new Typed("#subtitle", {
-                        strings: ['前路坎坷波折终有光','身后万劫不复无处藏'],
-                        startDelay: 300,
-                        typeSpeed: 100,
-                        loop: true,
-                        backSpeed: 50,
-                        showCursor: true
-                    });
-                </script>
-                
-            </div>
-        </div>
-    </div>
-</div>
+<link rel="stylesheet" href="/css/gallery.css">
+<link type="text/css" href="/libs/fancybox/jquery.fancybox.css" rel="stylesheet">
+<link type="text/css" href="/libs/justifiedGallery/justifiedGallery.min.css" rel="stylesheet">
 
 
-<script>
-    // 每天切换 banner 图.  Switch banner image every day.
-    var bannerUrl = "https://ferryfish-blog-images.oss-cn-shenzhen.aliyuncs.com/banner/" + new Date().getDay() + '.jpg';
-    $('.bg-cover').css('background-image', 'url(' + bannerUrl + ')');
-</script>
 
-
-    </div>
-</div>
-
-<main class="content">
-
-    
-
-<div id="category-cloud" class="container chip-container">
-    <div class="card">
-        <div class="card-content">
-            <div class="tag-title center-align">
-                <i class="fas fa-bookmark"></i>&nbsp;&nbsp;文章分类
-            </div>
-            <div class="tag-chips">
-                
-                
-                
-                <a href="/categories/Hexo/" title="Hexo: 1">
-                    <span class="chip center-align waves-effect waves-light
-                             chip-active "
-                            style="background-color: #F9EBEA;">Hexo
-                        <span class="tag-length">1</span>
-                    </span>
-                </a>
-                
-                
-                <a href="/categories/Markdown/" title="Markdown: 1">
-                    <span class="chip center-align waves-effect waves-light
-                             chip-default "
-                            style="background-color: #F5EEF8;">Markdown
-                        <span class="tag-length">1</span>
-                    </span>
-                </a>
-                
-                
-            </div>
-        </div>
-    </div>
-</div>
-
-
-    
-
-    <article id="articles" class="container articles">
-        <div class="row tags-posts">
-            
-            <div class="article tag-post col s12 m6 l4" data-aos="zoom-in">
-                <div class="card">
-                    <a href="/blog-512">
-                        <div class="card-image tag-image">
-                            
-                            
-                            <img src="/medias/featureimages/12.jpg" class="responsive-img" alt="Hello World">
-                            
-                            <span class="card-title">Hello World</span>
-                        </div>
-                    </a>
-                    <div class="card-content article-content">
-                        <div class="summary block-with-text">
-                            
-                                Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hex
-                            
-                        </div>
-                        <div class="publish-info">
-                            <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2020-08-16
-                            </span>
-                            <span class="publish-author">
-                                
-                                <i class="fas fa-bookmark fa-fw icon-category"></i>
-                                
-                                <a href="/categories/Hexo/" class="post-category">
-                                    Hexo
-                                </a>
-                                
-                                
-                            </span>
-                        </div>
-                    </div>
-
-                    
-                    <div class="card-action article-tags">
-                        
-                        <a href="/tags/Typora/">
-                            <span class="chip bg-color">Typora</span>
-                        </a>
-                        
-                        <a href="/tags/Markdown/">
-                            <span class="chip bg-color">Markdown</span>
-                        </a>
-                        
-                        <a href="/tags/Hexo/">
-                            <span class="chip bg-color">Hexo</span>
-                        </a>
-                        
-                    </div>
-                    
+<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/featureimages/4.jpg')">
+    <div class="container" style="right: 0px;left: 0px;">
+        <div class="row">
+            <div class="col s12 m12 l12">
+                <div class="brand">
+                    <h1 class="description center-align post-title">2020</h1>
                 </div>
             </div>
-            
         </div>
-    </article>
-</main>
+    </div>
+</div>
 
 
+
+<div class="container">
+    <div class="photo-wrapper">
+        
+
+            <script src="/js/crypto-js.js"></script>
+            <script src="/js/gallery-encrypt.js"></script>
+            <div id="hbe-security">
+                <div class="hbe-input-container">
+                    <input type="password" class="hbe-form-control" id="pass"  placeholder="请输入密码查看内容"/>
+                    <a href="javascript:;" class="btn-decrypt" id="btn_decrypt">解密</a>
+                </div>
+            </div>
+            <div  id="mygallery">
+                <div class="waterfall" id="encrypt-blog" style="display:none">
+                    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
+                </div>
+            </div>
+        
+    </div>
+</div>
+
+<script src="/libs/fancybox/fancybox.js"></script>
+<script src="/libs/justifiedGallery/justifiedGallery.min.js"></script>
+<script>
+
+    $("a[rel=example_group]").fancybox();
+    $("#encrypt-blog").justifiedGallery({margins: 5, rowHeight: 150});
+
+</script>
 
 
 <footer class="page-footer bg-color">
